@@ -10,3 +10,6 @@ Distributed systems stuff I consider worth reading.
 # Blogs
 - http://dbmsmusings.blogspot.com/
 - https://www.allthingsdistributed.com/
+- https://aphyr.com/
+# Others
+- https://jepsen.io/
